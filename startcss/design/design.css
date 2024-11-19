@@ -1,0 +1,16 @@
+body{
+
+     font-family: cursive;
+      background-color: rgb(29, 29, 182);
+    
+}
+.box{
+    background-color: rgb(59, 35, 217);
+    margin:auto;
+    border-radius: 10px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+margin:20px;
+padding:30px,30px;
+
+}
