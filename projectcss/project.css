@@ -1,0 +1,138 @@
+*{
+    margin:0;
+    padding:0;
+}
+.main{
+    width:100%;
+    background: linear-gradient(yellow);
+    background-image: url(https://t3.ftcdn.net/jpg/08/76/85/70/360_F_876857051_aGe8ozEkAYUHXnFoBKB76sFnmisY9aPG.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+    padding:1px;
+}
+.navbar{
+    width:1200px;
+    margin:1px;
+    height:70px;
+}
+.icon{
+    width:200px;
+    float:left;
+    height:70px;
+}
+.logo{
+    color:rgb(225, 219, 218);
+    font-size: 50px;
+    font-family:Arial ;
+    padding:10px;
+}
+
+.menu{
+    width:455px;
+    float:left;
+    height:70px;
+    color:white;
+}
+ul{
+    float:left;
+    display:flex;
+    justify-content:center ;
+    align-items: center;
+    padding:4px;
+}
+ul li{
+    text-decoration:none ;
+    list-style:none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-family: Arial;
+    font-size:5px;
+}
+ul li a{
+    text-decoration: underline;
+    color:rgb(228, 235, 239);
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 35px;
+}
+ul li a:hover{
+    color:rgb(185, 20, 5);
+}
+.content{
+    font-family: Arial;
+    font-style: oblique;
+    font-size: 60px;
+    color:ghostwhite;
+    padding:10px;
+    border-radius: 1px;
+justify-content:space-around;
+position: absolute;
+align-items:center;
+    width:1200px;
+    margin:auto;
+    float:right;
+    flex-wrap: wrap;    
+
+}
+h1{
+    text-align: center;
+    top:50%;
+    left:50%;
+    text-decoration: underline;
+    justify-items: center;
+    padding:10px;
+    top:100px;
+bottom:100px;
+    position: absolute;
+    color:rgb(235, 243, 244);
+    justify-content: center;
+}
+
+.content:hover h1{
+    color:rgb(6, 127, 175);
+}
+
+.image img{
+    width:350px;
+    height:300px;
+    border-radius:10%;
+    float:right;
+    padding:10px;
+    position: right;
+    align-items:left;
+    padding:right 80px;
+
+
+    
+}
+.para{
+    text-align: right;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 45px;
+    font-style: normal;
+    float: right;
+    padding:60px;
+    border:50px;
+  color:rgba(208, 210, 216, 0.917);
+}
+.image1 img{
+    width:400;
+    height:300;
+    border-radius:20%;
+    padding:40px;
+    align-items: center;
+    justify-content: center;
+    padding-left: 40PX;
+
+
+}
+
+    
+
+
+
+    
+
+    
