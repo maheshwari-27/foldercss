@@ -1,0 +1,6 @@
+.image:hover{
+transform: rotate(60deg);
+transform: scale(0.5);
+transition-duration: (5s);
+/*transform: rotate(60deg);*/
+}
